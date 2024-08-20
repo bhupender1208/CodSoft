@@ -1,2 +1,2 @@
 # Portfolio
-This is my first repository of project that is portfolio.
+This is my first repository of project that is portfolio website.
